@@ -1,0 +1,172 @@
+Flight 501 added successfully
+Flight 601 added successfully
+Flight 509 added successfully
+Flight 551 added successfully
+Flight 671 added successfully
+Passenger Ahmed_Ali added successfully
+Passenger Jane_Smith added successfully
+Passenger Emily_Johnson added successfully
+Passenger Wed_Ali added successfully
+Passenger Ahlam_Smith added successfully
+Passenger Mary_Johnson added successfully
+Passenger Lina_Ali added successfully
+Passenger Janet_Smith added successfully
+Passenger Hala_Johnson added successfully
+Passenger Tareq_Dan added successfully
+
+********************BookTicket*************************
+
+Seat booked successfully.
+Ticket Information: 
+Reservation Confirmation Number= 100, Flight Number=551, Passenger Name= Ahmed_Ali, Seat Number= 10C, classType= BusinessClass
+
+********************BookTicket*************************
+
+Seat booked successfully.
+Ticket Information: 
+Reservation Confirmation Number= 101, Flight Number=601, Passenger Name= Ahmed_Ali, Seat Number= 10A, classType= BusinessClass
+
+********************BookTicket*************************
+
+Passenger with Passport number X18345 is not Registered
+
+********************BookTicket*************************
+
+Passenger with Passport number X18345 is not Registered
+
+********************BookTicket*************************
+
+Flight 61 Not Found
+
+********************BookTicket*************************
+
+Seat booked successfully.
+Ticket Information: 
+Reservation Confirmation Number= 102, Flight Number=551, Passenger Name= Emily_Johnson, Seat Number= 10D, classType= FirstClass
+
+********************BookTicket*************************
+
+Seat 10S is already Reserved Or Not found
+
+*********************Generate Ticket Invoice************************** 
+
+Ticket Information: 
+Reservation Confirmation Number= 101, Flight Number=601, Passenger Name= Ahmed_Ali, Seat Number= 10A, classType= BusinessClass
+Total ticket price = 6900.0
+
+*********************Generate Ticket Invoice************************** 
+
+Ticket Information: 
+Reservation Confirmation Number= 100, Flight Number=551, Passenger Name= Ahmed_Ali, Seat Number= 10C, classType= BusinessClass
+Total ticket price = 5520.0
+
+*********************Generate Ticket Invoice************************** 
+
+Reservation Number is not available
+
+*********************Generate Flight Invoice************************** 
+
+Seat Plane for flight 551 is: 
+************************************
+ Row           a            b            c            d            e            f            
+ 0            O            O            O            O            O            O            
+ 1            O            O            O            O            O            O            
+ 2            O            O            O            O            O            O            
+ 3            O            O            O            O            O            O            
+ 4            O            O            O            O            O            O            
+ 5            O            O            O            O            O            O            
+ 6            O            O            O            O            O            O            
+ 7            O            O            O            O            O            O            
+ 8            O            O            O            O            O            O            
+ 9            O            O            X12345       Z34563       O            O            
+ 10           O            O            O            O            O            O            
+ 11           O            O            O            O            O            O            
+ 12           O            O            O            O            O            O            
+ 13           O            O            O            O            O            O            
+ 14           O            O            O            O            O            O            
+ 15           O            O            O            O            O            O            
+ 16           O            O            O            O            O            O            
+ 17           O            O            O            O            O            O            
+ 18           O            O            O            O            O            O            
+ 19           O            O            O            O            O            O            
+ 20           O            O            O            O            O            O            
+ 21           O            O            O            O            O            O            
+ 22           O            O            O            O            O            O            
+ 23           O            O            O            O            O            O            
+ 24           O            O            O            O            O            O            
+ 25           O            O            O            O            O            O            
+ 26           O            O            O            O            O            O            
+ 27           O            O            O            O            O            O            
+ 28           O            O            O            O            O            O            
+ 29           O            O            O            O            O            O            
+
+Ticket Information: 
+Reservation Confirmation Number= 100, Flight Number=551, Passenger Name= Ahmed_Ali, Seat Number= 10C, classType= BusinessClass
+Ticket Information: 
+Reservation Confirmation Number= 102, Flight Number=551, Passenger Name= Emily_Johnson, Seat Number= 10D, classType= FirstClass
+
+Total Invoice price =14720.0
+
+*********************Generate Flight Invoice************************** 
+
+Seat Plane for flight 601 is: 
+************************************
+ Row           a            b            c            d            e            f            
+ 0            O            O            O            O            O            O            
+ 1            O            O            O            O            O            O            
+ 2            O            O            O            O            O            O            
+ 3            O            O            O            O            O            O            
+ 4            O            O            O            O            O            O            
+ 5            O            O            O            O            O            O            
+ 6            O            O            O            O            O            O            
+ 7            O            O            O            O            O            O            
+ 8            O            O            O            O            O            O            
+ 9            X12345       O            O            O            O            O            
+ 10           O            O            O            O            O            O            
+ 11           O            O            O            O            O            O            
+ 12           O            O            O            O            O            O            
+ 13           O            O            O            O            O            O            
+ 14           O            O            O            O            O            O            
+ 15           O            O            O            O            O            O            
+ 16           O            O            O            O            O            O            
+ 17           O            O            O            O            O            O            
+ 18           O            O            O            O            O            O            
+ 19           O            O            O            O            O            O            
+ 20           O            O            O            O            O            O            
+ 21           O            O            O            O            O            O            
+ 22           O            O            O            O            O            O            
+ 23           O            O            O            O            O            O            
+ 24           O            O            O            O            O            O            
+ 25           O            O            O            O            O            O            
+ 26           O            O            O            O            O            O            
+ 27           O            O            O            O            O            O            
+ 28           O            O            O            O            O            O            
+ 29           O            O            O            O            O            O            
+ 30           O            O            O            O            O            O            
+ 31           O            O            O            O            O            O            
+ 32           O            O            O            O            O            O            
+ 33           O            O            O            O            O            O            
+ 34           O            O            O            O            O            O            
+ 35           O            O            O            O            O            O            
+ 36           O            O            O            O            O            O            
+ 37           O            O            O            O            O            O            
+ 38           O            O            O            O            O            O            
+ 39           O            O            O            O            O            O            
+ 40           O            O            O            O            O            O            
+ 41           O            O            O            O            O            O            
+ 42           O            O            O            O            O            O            
+ 43           O            O            O            O            O            O            
+ 44           O            O            O            O            O            O            
+
+Ticket Information: 
+Reservation Confirmation Number= 101, Flight Number=601, Passenger Name= Ahmed_Ali, Seat Number= 10A, classType= BusinessClass
+
+Total Invoice price =6900.0
+
+*********************Generate Flight Invoice************************** 
+
+Flight Not Found or No Ticket booked for this flight
+
+*********************Generate Flight Invoice************************** 
+
+Flight Not Found or No Ticket booked for this flight

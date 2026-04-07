@@ -1,0 +1,14 @@
+BookTicket X12345 551 10 C BusinessClass
+BookTicket X12345 601 10 A BusinessClass
+BookTicket X18345 601 80 C BusinessClass
+BookTicket X18345 601 10 C BusinessClass
+BookTicket X12345 61 10 S BusinessClass
+BookTicket Z34563 551 10 D FirstClass
+BookTicket X12345 601 10 S BusinessClass
+GenerateInvoice 101
+GenerateInvoice 100
+GenerateInvoice 103
+GenerateIFlightnvoice 551
+GenerateIFlightnvoice 601
+GenerateIFlightnvoice 503
+GenerateIFlightnvoice 61

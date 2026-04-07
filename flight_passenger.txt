@@ -1,0 +1,16 @@
+5 10
+AddFlight 501 JED LHR 15 30 6
+AddFlight 601 JFK RUH 10 45 6
+AddFlight 509 JED CDG 7 30 11
+AddFlight 551 LHR JED 12 30 6
+AddFlight 671 HKG LHR 3 10 11
+AddPassenger X12345 Ahmed_Ali
+AddPassenger F78923 Jane_Smith
+AddPassenger Z34563 Emily_Johnson
+AddPassenger X12345 Wed_Ali
+AddPassenger F75923 Ahlam_Smith
+AddPassenger M37563 Mary_Johnson
+AddPassenger S12645 Lina_Ali
+AddPassenger F70923 Janet_Smith
+AddPassenger Z30563 Hala_Johnson
+AddPassenger Q37563 Tareq_Dan
