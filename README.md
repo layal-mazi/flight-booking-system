@@ -44,5 +44,4 @@ Compile and run BookingSystem.java.
 
 Check output.txt for the generated results and flight seat plans.
 
-Example Output (Seat Plan)
 
