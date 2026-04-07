@@ -1,4 +1,3 @@
-
 package bookingsystem;
 import java.io.PrintWriter;
 
