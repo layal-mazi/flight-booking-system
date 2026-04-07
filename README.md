@@ -45,9 +45,4 @@ Compile and run BookingSystem.java.
 Check output.txt for the generated results and flight seat plans.
 
 Example Output (Seat Plan)
-The system generates a visual representation of the aircraft seating:
-Row           a            b            c            d            e            f            
- 0            O            O            O            O            O            O            
-...
- 9            X12345       O            O            O            O            O
- (O = Available, Passenger ID = Reserved)
+
